@@ -1,11 +1,11 @@
-<sample name>
+&lt;sample name&gt;
 ===========
 
-<Simple description of project>
+&lt;Simple description of project&gt;
 
 This project demonstrates:
- * <Feature 1>
- * <Feature 2>
+ * &lt;Feature 1&gt;
+ * &lt;Feature 2&gt;
 
 ### Usage:
 
